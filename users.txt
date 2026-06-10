@@ -1,2 +1,3 @@
 admin:password123:BOARD_SERIAL_12345
 kirill:mycheatkey:UNKNOWN_HWID
+SOLIDAR:19122012k:951179a9-23bd-459d-b4cf-1295d99d65a3
