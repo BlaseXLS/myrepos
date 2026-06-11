@@ -1,3 +1,4 @@
 admin:password123:BOARD_SERIAL_12345
 kirill:mycheatkey:UNKNOWN_HWID
 SOLIDAR:19122012k:951179a9-23bd-459d-b4cf-1295d99d65a3
+Solace_1337_YT:123rol23:8cf7afd5-43b3-4d05-8403-1fc5ec44bc34
