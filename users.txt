@@ -2,4 +2,4 @@ admin:password123:BOARD_SERIAL_12345
 kirill:mycheatkey:UNKNOWN_HWID
 SOLIDAR:19122012k:951179a9-23bd-459d-b4cf-1295d99d65a3
 Solace_1337_YT:123rol23:8cf7afd5-43b3-4d05-8403-1fc5ec44bc34
-Netore77:02062013:b80aa627-b9b2-417a-a8d7-a826debfb54d
+Netore77:02062013misha:b80aa627-b9b2-417a-a8d7-a826debfb54d
